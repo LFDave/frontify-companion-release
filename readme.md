@@ -1,4 +1,4 @@
-# Frontify Desktop App
+# Frontify Desktop App - TEST
 
 ## Customer Configuration
 
